@@ -8,5 +8,5 @@
 ```
 - Week 1 : select/orderby/select distinct/where/In/Between/Like/Isnull/Limit/Fetch
 - Week 2 : Join/Inner Join/Outer Join/Self Join/Full outer Join/Cross Join/Natural Join/Group by/Having/집합연산자와 서브쿼리(Union,UnionAll,intersect,Except)
-- Week 3 : https://www.notion.so/3-8-16-8-20-7cd732fa25da4cfdbb81e712122b4010
+- Week 3 : 
 - Week 4 : 프로그래머스 문제 풀기 https://programmers.co.kr/learn/challenges
