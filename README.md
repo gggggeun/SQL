@@ -7,6 +7,6 @@
 - 토 ~ 일 중 하루  ⇒  스터디원끼리 모여서 퀴즈에 대해 논의하고 , 각자의 풀이법을 공유하며, 더 나은 방향은 없는지 논의합니다. 
 ```
 - Week 1 : select/orderby/select distinct/where/In/Between/Like/Isnull/Limit/Fetch
-- Week 2 : https://syh0397.notion.site/2-8-09-8-13-57e2717fa95c48e6a2bbd272b180c80c
+- Week 2 : Join/Inner Join/Outer Join/Self Join/Full outer Join/Cross Join/Natural Join/Group by/Having/집합연산자와 서브쿼리(Union,UnionAll,intersect,Except)
 - Week 3 : https://www.notion.so/3-8-16-8-20-7cd732fa25da4cfdbb81e712122b4010
 - Week 4 : 프로그래머스 문제 풀기 https://programmers.co.kr/learn/challenges
