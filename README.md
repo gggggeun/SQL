@@ -8,5 +8,5 @@
 ```
 - Week 1 : select/orderby/select distinct/where/In/Between/Like/Isnull/Limit/Fetch
 - Week 2 : Join/Inner Join/Outer Join/Self Join/Full outer Join/Cross Join/Natural Join/Group by/Having/집합연산자와 서브쿼리(Union,UnionAll,intersect,Except)
-- Week 3 : 
+- Week 3 : 서브쿼리/집합연산자와 서브쿼리 = ANY, EXISTS/조인과 집계데이터 = Grouping Set, Roll up, 분석함수, AVG함수, Row Number, Rank, Dense_Rank,First_Value, Last_Value, Lag, Lead/ 조건연산자, with문, 트랜잭션/window function/CTE/Partituon by
 - Week 4 : 프로그래머스 문제 풀기 https://programmers.co.kr/learn/challenges
