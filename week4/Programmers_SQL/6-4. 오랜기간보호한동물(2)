@@ -1,0 +1,16 @@
+## 오랜기간 보호한 동물(2)
+https://programmers.co.kr/learn/courses/30/lessons/59411
+
+### 문제
+입양을 간 동물 중, 보호 기간이 가장 길었던 동물 두 마리의 아이디와 이름을 조회하는 SQL문을 작성해주세요. 
+이때 결과는 보호 기간이 긴 순으로 조회해야 합니다.
+
+## 풀이
+- DATEDIFF 사용 (두 날짜 기간 구하기)
+
+```SQL
+SELECT O.ANIMAL_ID, O.NAME FROM ANIMAL_OUTS O
+LEFT JOIN ANIMAL_INS I ON O.ANIMAL_ID=I.ANIMAL_ID
+ORDER BY DATEDIFF(O.DATETIME, I.DATETIME) DESC
+LIMIT 2
+```
